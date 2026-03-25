@@ -17,7 +17,6 @@ public class Main {
         System.out.println("你输入的数字是：" + num);
         
         System.out.println("你输入的数字是：" + num);
-        System.out.println("你输入的数字是：" + num);
         // 关闭输入
         sc.close();
     }
