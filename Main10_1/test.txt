@@ -1,0 +1,20 @@
+Java语言的发明人是？
+A. 比尔·盖茨
+B. 詹姆斯·高斯林
+C. 史蒂夫·乔布斯
+D. 埃隆·马斯克
+- B
+
+Java中int类型占用几个字节？
+A. 1
+B. 2
+C. 4
+D. 8
+- C
+
+以下哪个是Java的关键字？
+A. main
+B. String
+C. class
+D. System
+- C
