@@ -10,7 +10,7 @@ public class AvgPrice {
         int count = 0;       
         double sum = 0.0; 
         try {
-            sc = new Scanner(file);
+            sc = new Scanner(new FileInputStream(file));
             sc.useDelimiter("[^0123456789.]+");
             while(sc.hasNextDouble()){
                 double price = sc.nextDouble();
